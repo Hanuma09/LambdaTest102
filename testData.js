@@ -1,0 +1,16 @@
+export const testData = {
+    Url: "https://www.lambdatest.com/selenium-playground/",
+    WelcomeMessage: "Welcome to LambdaTest",
+    userName: " Yalavarthi Hanuma",
+    Email: "hanuma@123.com",
+    Password: "Ascii0015",
+    Company: "Lambda",
+    Website: "www.lambda.com",
+    Country: "United States",
+    City: "CHICAGO",
+    Address1: "Street line1",
+    Address2: "Street line2",
+    State: "DOWN TOWN",
+    Zip: "60378",
+    SucessMessage: "Thanks for contacting us, we will get back to you shortly.",
+  };
